@@ -1,6 +1,6 @@
 # About Me 🚀
 🎓 Hi, I’m an **ELectrical Engineering** student with deep interest in AI/ML and Robotics.  
-🔨 Previously developed AI-driven solutions for GPS-denied navigation, autonomous systems, hardware integration for UAVs and robotics, and AI solutions for SaaS applications.  
+🔨 Previously developed AI-driven solutions for GPS-denied navigation, autonomous systems, hardware integration for UAVs and robotics, and     AI solutions for SaaS applications.  
 🌱 Currently, I’m exploring how renewable energy solutions like Hydrogen can be integrated into UAVs and other autonomous systems to make them more sustainable and efficient.  
 👨‍💻 I want to leverage machine learning, deep learning, and data science techniques, to develop advance un-manned systems to proof that hardware becomes limitless when empowered by AI, unlocking potential once thought unimaginable. .
 
