@@ -37,7 +37,8 @@
 - Autonomous Vehicle Control  
 - UAV Systems  
 - Embedded Systems  
-- Real-time Processing  
+- Real-time Processing
+- Companion Computing
 
 ## Programming Languages: 
 - Python  
